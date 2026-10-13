@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog do Aluno</title>
+
+    <style>
+        .destaque {
+            color: #ffffff;
+            background-color: #2563eb;
+            font-weight: bold;
+        }
+
+        .feito {
+            color: #15803d;
+            text-decoration: line-through;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="titulo">Blog do Aluno</h1>
+
+    <p class="texto">Este é o primeiro parágrafo do blog.</p>
+    <p class="texto">JavaScript permite criar páginas interativas.</p>
+    <p class="texto">Eventos tornam a experiência do usuário mais dinâmica.</p>
+
+    <h2>Lista de tarefas</h2>
+
+    <ul id="lista">
+        <li>Item inicial 1</li>
+        <li>Item inicial 2</li>
+        <li>Item inicial 3</li>
+    </ul>
+
+    <form id="formulario">
+        <label for="tarefa">Nova tarefa:</label>
+        <input type="text" id="tarefa" placeholder="Nova tarefa">
+        <button type="submit">Adicionar tarefa</button>
+    </form>
+
+    <br>
+
+    <button id="botao">Clique Aqui</button>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
