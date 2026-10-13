@@ -28,6 +28,6 @@ Resolução dos desafios práticos cobrindo os três blocos fundamentais de lóg
 
 ## Arquivos do Repositório
 
-- `semana_01_e_02`: Código-fonte consolidado com HTML5 semântico e CSS3 incorporado.
-- `entregavel_semana03.js`: Código-fonte com a resolução completa dos desafios de Introdução ao JavaScript.
+- `semana_01_e_02/index.html`: Código-fonte consolidado com HTML5 semântico e CSS3 incorporado.
+- `semana_03/app.js`: Código-fonte com a resolução completa dos desafios de Introdução ao JavaScript.
 - `README.md`: Documentação e estrutura explicativa completa do repositório.
